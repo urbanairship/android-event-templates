@@ -1,3 +1,7 @@
+This Android Event Templates repo has been DEPRECATED and will be removed at a future date.
+
+The Android Event Templates has been moved into the Urban Airship Android UA 7.3.0 SDK: https://github.com/urbanairship/android-library
+
 Android Event Templates
 =======================
 
